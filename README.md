@@ -32,5 +32,5 @@
 
 
 
-[instagram]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/
-[linkedin]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/
+[instagram]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/?locale=en_US
+[linkedin]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/?locale=en_US
