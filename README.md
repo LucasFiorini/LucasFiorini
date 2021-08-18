@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/" />][website]
-[<img align="left" alt="Instagram" width="22px" src="www.intstagram.com" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,4 +32,5 @@
 
 
 
-
+[instagram]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/
+[linkedin]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/
