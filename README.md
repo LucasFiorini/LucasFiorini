@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas! 👋
 
-## I'm a Data Scientist and Tarkov player!!
+## I'm a Data Scientist
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I like to sleep
