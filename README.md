@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about Data Science 🤣
 - ⚡ Fun fact: I like to sleep
 
 ### Connect with me:
