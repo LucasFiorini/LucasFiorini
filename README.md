@@ -2,8 +2,8 @@
 
 ## I'm a Data Scientist
 
-- 🌱 I’m currently learning everything about Data Science 🤣
-- ⚡ Fun fact: I like to sleep
+- 🌱 I’m currently learning 
+- ⚡ Fun fact: Elephants can’t jump
 
 ### Connect with me:
 
