@@ -1,14 +1,11 @@
 ### Hi there, I'm Lucas! 👋
 
-## I'm a Data Scientist
+## I'm a Machine Learning Scientist
 
-- 🌱 I’m currently learning 
 - ⚡ Fun fact: Elephants can’t jump
 
-### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -22,5 +19,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[instagram]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/?locale=en_US
 [linkedin]: https://www.linkedin.com/in/lucas-fiorini-braga-97b231186/?locale=en_US
