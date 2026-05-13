@@ -9,7 +9,7 @@ Exploring **Instance Hardness metrics** to enhance model training and/or feature
 Check out **[The Hidden Layer](https://lucasfiorini.github.io/the-hidden-layer/)** — my space for ML writing and projects.
 
 ### 🤝 Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)][linkedin]
 <br />
 
 ### Languages and Tools:
